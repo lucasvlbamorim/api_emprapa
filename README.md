@@ -39,7 +39,7 @@ docker-compose --version
 1. **Clone o repositório:**
 
    ```bash
-   git clone [https://github.com/lucasvlbamorim/api_emprapa.git]
+   git clone https://github.com/lucasvlbamorim/api_emprapa.git
    cd api_emprapa
    ---
 
