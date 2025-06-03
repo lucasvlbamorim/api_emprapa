@@ -39,11 +39,12 @@ docker-compose --version
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/sua-api-vitibrasil.git
-   cd sua-api-vitibrasil
-
+   git clone [https://github.com/lucasvlbamorim/api_emprapa.git]
+   cd api_emprapa
+   ---
 
 2. **Execute o comando:**
 
    ```bash
    docker-compose up --build -d
+   ---
